@@ -8,7 +8,7 @@
 
 To change background images: Delete what's in the parenthesis. Upload the new background to Imgur or a similar site, then copy the direct link (or Original GIF link if it's animated) and paste it into the parenthesis. Save.
 */
-:root { --banner: url(https://i.imgur.com/VoPJz2S.jpg) !important;}	
+:root { --banner: url(https://wallpapercave.com/wp/wp1933957.png) !important;}	
 	
 	
 /* BANNER TEXT*/
@@ -28,7 +28,7 @@ To change background images: Delete what's in the parenthesis. Upload the new ba
 */
 
 body:before{
-background-image: url(https://i.pinimg.com/originals/e0/58/fa/e058fa970fc282e03edc68ff4feb32d9.gif);
+background-image: url(https://i.pinimg.com/originals/10/73/13/1073132f3df51b258a2dd3cc86c5ae9d.png);
 }
 	
 	
